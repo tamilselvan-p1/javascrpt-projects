@@ -65,7 +65,7 @@ function sealEmployee(id) {
     }
 }
 
-//Usage
+//Usage -
 addEmployee(1,"Alice","Engineering",70000)
 addEmployee(2,"Bob","Marketing",50000)
 addEmployee(3,"Charlie","HR",60000)
